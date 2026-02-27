@@ -1,38 +1,6 @@
 Welcome, lovely human 🌷 This is Ananya Sharma's full-stack web development journal — a carefully tended garden of everything I'm learning as I go from "what even is a div" to building complete, beautiful, functional web applications. This repo holds my notes, mini projects, experiments, and the occasional breakthrough moment documented in real time. 🌿
 Full-stack felt intimidating at first. It still does, sometimes. But I've learned that the best way through something hard is to go through it slowly, intentionally, and with good notes.
 
-🗂️ repository structure
-🌸 ananya-fullstack/
-│
-├── 🌷 README.md                     ← you are here, darling.
-│
-├── 📖 notes/
-│   ├── html-css/
-│   │   ├── basics.md
-│   │   ├── flexbox-grid.md
-│   │   └── responsive-design.md
-│   ├── javascript/
-│   │   ├── fundamentals.md
-│   │   ├── dom-manipulation.md
-│   │   └── async-promises.md
-│   ├── react/
-│   │   ├── components-props.md
-│   │   └── hooks.md
-│   ├── node-express/
-│   │   ├── servers-routing.md
-│   │   └── rest-apis.md
-│   └── databases/
-│       ├── sql-basics.md
-│       └── mongodb.md
-│
-├── 💻 mini-projects/
-│   ├── html-css/
-│   ├── javascript/
-│   ├── react/
-│   └── fullstack/
-│
-└── 🎀 capstone/
-    └── (something magical, coming soon ✨)
 ## 🗺️ the roadmap
 
 A gentle guide through everything I'm working through — from the very first tag to a full working app.
