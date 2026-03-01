@@ -1,1 +1,26 @@
+HTML - HyperText Markup Language.
+It tells the computer what things are, and it provides access to the functionality that's already there in the browser.
+It only provides structure to the page.
 
+1. Formatting Text in HTML-
+Opening tag for para tag is <p> and closing tag for the same is </p>.
+Opening tag, content and closing tag together is called an element.
+
+<p>This is paragraph tag.</p>
+<h1> headline</h1>
+<article>This is an article.</article>
+
+<p>This paragraph has <em>text that's emphasized</em>for effect.</p>
+<p> used to tell the browser given section is a paragraph. 
+
+There are 6 headlines, <h1> being the biggest and <h6> is the smallest headline.
+
+For Italics, we have <i> when we only want visual only italics <em> for emphasis on italics. 
+For bold, we use <b>, which is visual-only, whereas we use <strong> whenever we want to convey seriousness and urgency to screen readers.
+
+Lists are of 3 kinds ordered <ol>, unoredered lists <ul> and definition lists. <li> stands for list item. Ordered lists have sequence.
+Lists which represent key value pairs are known as definition lists and they have <dt> i.e. definition terms and <dd> definition description and <dl> is used to wrap definition list.
+Handling dates and times can get tricky in programming languages, not in HTML though. We use <time> element to format a time or date anything that is related to specific moment in time or range that computers can understand.
+<time>May 8, 2025</time>
+<br />
+<time>8 May 2025</time>
